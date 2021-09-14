@@ -1,0 +1,95 @@
+html{
+  background-color: rgba(10, 140, 160, 0.5);
+}
+
+h1{
+  font-family: helvetica;
+  color: black;
+  background: white;
+  font-size: 60px;
+  margin-right: 900px;
+}
+
+h2{
+  font-family: helvetica;
+  color: black;
+  background: white;
+  font-size: 60px;
+  margin-right: 800px;
+}
+
+h3{
+  font-family: helvetica;
+  color: black;
+  background: white;
+  font-size: 60px;
+  margin-right: 900px;
+}
+
+h4{
+  font-family: helvetica;
+  color: black;
+  background: white;
+  font-size: 60px;
+  margin-right: 800px;
+}
+
+h5{
+  font-family: helvetica;
+  color: black;
+  background: white;
+  font-size: 60px;
+  margin-right: 800px;
+}
+
+p1{
+  font-family: helvetica;
+  color: black;
+  font-size: 90px;
+}
+
+p2{
+  font-family: helvetica;
+  color: black;
+  font-size: 90px;
+}
+
+p3{
+  font-family: helvetica;
+  color: black;
+  font-size: 90px;
+}
+
+p4{
+  font-family: helvetica;
+  color: black;
+  font-size: 90px;
+}
+
+a{
+  text-decoration-line: none;
+  color: black;
+  font-family: helvetica;
+  font-style: bold;
+  color: black;
+  font-size: 40px;
+}
+
+<!--
+a:hover
+{
+  background-color: white;
+}
+//-->
+
+ul{
+  font-family: helvetica;
+  font-style: bold;
+  color: black;
+  font-size: 40px;
+}
+
+img{
+  width: 100%;
+  display:block;
+}
