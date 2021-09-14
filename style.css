@@ -8,6 +8,7 @@ h1{
   background: white;
   font-size: 60px;
   margin-right: 900px;
+  outline: dashed black;
 }
 
 h2{
@@ -16,6 +17,7 @@ h2{
   background: white;
   font-size: 60px;
   margin-right: 800px;
+  outline: dashed black;
 }
 
 h3{
@@ -24,6 +26,7 @@ h3{
   background: white;
   font-size: 60px;
   margin-right: 900px;
+  outline: dashed black;
 }
 
 h4{
@@ -32,6 +35,7 @@ h4{
   background: white;
   font-size: 60px;
   margin-right: 800px;
+  outline: dashed black;
 }
 
 h5{
@@ -40,6 +44,7 @@ h5{
   background: white;
   font-size: 60px;
   margin-right: 800px;
+  outline: dashed black;
 }
 
 p1{
@@ -73,6 +78,7 @@ a{
   font-style: bold;
   color: black;
   font-size: 40px;
+  font-variant: small-caps;
 }
 
 <!--
